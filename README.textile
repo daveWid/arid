@@ -6,4 +6,6 @@ Wordpress is very good at doing content management, but as a developer creating
 themes is a pain in the ass. This plugin uses the MV of MVC (Wordpress is the controller)
 to allow for better organization of themes.
 
-Arid uses a small subset of the "Kohana Framework":http://www.kohanaframework.org
+For a quick demo on what the index.php file of your theme should look like please look at my "Arid Demo Gist":https://gist.github.com/929437.
+
+Arid is heavily influenced by the "Kohana Framework":http://www.kohanaframework.org.
