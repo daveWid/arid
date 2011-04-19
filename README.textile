@@ -1,0 +1,9 @@
+h1. Arid
+
+The Arid Wordpress plugin allows for rapid DRY theme development.
+
+Wordpress is very good at doing content management, but as a developer creating
+themes is a pain in the ass. This plugin uses the MV of MVC (Wordpress is the controller)
+to allow for better organization of themes.
+
+Arid uses a small subset of the "Kohana Framework":http://www.kohanaframework.org
